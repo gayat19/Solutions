@@ -1,0 +1,7 @@
+D:\Data\d drive\Corp\Srushti\Dotnet ContentDevelopment\CollectionExampleSolution_Hard_1\CollectionExampleSolution_Hard_1\bin\Debug\CollectionExampleSolution_Hard_1.exe.config
+D:\Data\d drive\Corp\Srushti\Dotnet ContentDevelopment\CollectionExampleSolution_Hard_1\CollectionExampleSolution_Hard_1\bin\Debug\CollectionExampleSolution_Hard_1.exe
+D:\Data\d drive\Corp\Srushti\Dotnet ContentDevelopment\CollectionExampleSolution_Hard_1\CollectionExampleSolution_Hard_1\bin\Debug\CollectionExampleSolution_Hard_1.pdb
+D:\Data\d drive\Corp\Srushti\Dotnet ContentDevelopment\CollectionExampleSolution_Hard_1\CollectionExampleSolution_Hard_1\obj\Debug\CollectionExampleSolution_Hard_1.csprojAssemblyReference.cache
+D:\Data\d drive\Corp\Srushti\Dotnet ContentDevelopment\CollectionExampleSolution_Hard_1\CollectionExampleSolution_Hard_1\obj\Debug\CollectionExampleSolution_Hard_1.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Srushti\Dotnet ContentDevelopment\CollectionExampleSolution_Hard_1\CollectionExampleSolution_Hard_1\obj\Debug\CollectionExampleSolution_Hard_1.exe
+D:\Data\d drive\Corp\Srushti\Dotnet ContentDevelopment\CollectionExampleSolution_Hard_1\CollectionExampleSolution_Hard_1\obj\Debug\CollectionExampleSolution_Hard_1.pdb

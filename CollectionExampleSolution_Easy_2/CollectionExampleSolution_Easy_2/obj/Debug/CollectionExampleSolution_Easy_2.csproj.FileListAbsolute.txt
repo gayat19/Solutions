@@ -1,0 +1,6 @@
+D:\Data\d drive\Corp\Srushti\Dotnet ContentDevelopment\CollectionExampleSolution_Easy_2\CollectionExampleSolution_Easy_2\bin\Debug\CollectionExampleSolution_Easy_2.exe.config
+D:\Data\d drive\Corp\Srushti\Dotnet ContentDevelopment\CollectionExampleSolution_Easy_2\CollectionExampleSolution_Easy_2\bin\Debug\CollectionExampleSolution_Easy_2.exe
+D:\Data\d drive\Corp\Srushti\Dotnet ContentDevelopment\CollectionExampleSolution_Easy_2\CollectionExampleSolution_Easy_2\bin\Debug\CollectionExampleSolution_Easy_2.pdb
+D:\Data\d drive\Corp\Srushti\Dotnet ContentDevelopment\CollectionExampleSolution_Easy_2\CollectionExampleSolution_Easy_2\obj\Debug\CollectionExampleSolution_Easy_2.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Srushti\Dotnet ContentDevelopment\CollectionExampleSolution_Easy_2\CollectionExampleSolution_Easy_2\obj\Debug\CollectionExampleSolution_Easy_2.exe
+D:\Data\d drive\Corp\Srushti\Dotnet ContentDevelopment\CollectionExampleSolution_Easy_2\CollectionExampleSolution_Easy_2\obj\Debug\CollectionExampleSolution_Easy_2.pdb
